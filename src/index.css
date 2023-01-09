@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Milonga&family=Quicksand:wght@300;400;500&display=swap');
+
+* {
+    box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    box-sizing: border-box;
+    min-height: 100%;
+    font-family: "Quicksand";
+
+}
